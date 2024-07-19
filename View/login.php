@@ -12,11 +12,14 @@
   <link rel="stylesheet" href="dist/css/adminlte.min.css">
 
 </head>
-<body class="hold-transition login-page">
+<body  class="hold-transition login-page bg-dark"  >
 
-<div class="login-box">
+<div class="login-box" >
   <div class="login-logo">
-    <a href="../../index2.html"><b>Comidi</b>Ticas</a>
+    <a href="../../index.php"><b style= "color: #fff;">Comidi
+            <br>
+            <small style= "color: #fac564;">Ticas</small>
+          </a>
   </div>
   <!-- /.login-logo -->
   <div class="card">

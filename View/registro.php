@@ -17,11 +17,15 @@
   <link rel="stylesheet" href="dist/css/adminlte.min.css">
   <!-- Google Font: Source Sans Pro -->
   <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,400i,700" rel="stylesheet">
-</head>
-<body class="hold-transition register-page">
-<div class="register-box">
-  <div class="register-logo">
-    <a href="../../index2.html"><b>Comidi</b>Ticas</a>
+  </head>
+<body  class="hold-transition login-page bg-dark"  >
+
+<div class="login-box" >
+  <div class="login-logo">
+    <a href="../../index.php"><b style= "color: #fff;">Comidi
+            <br>
+            <small style= "color: #fac564;">Ticas</small>
+          </a>
   </div>
 
   <div class="card">
