@@ -52,6 +52,7 @@
           </ul>
         </li>
             <li class="nav-item"><a href="View/restaurantes.php" class="nav-link">Restaurantes</a></li>
+            <li class="nav-item"><a href="View/gestionRestaurante.php" class="nav-link">Gestion de Restaurantes</a></li>
 	        </ul>
 	      </div>
 		  </div>
@@ -65,7 +66,7 @@
           <div class="row slider-text align-items-center" data-scrollax-parent="true">
 
             <div class="col-md-6 col-sm-12 ftco-animate">
-            	<span class="subheading">Delicioso</span>
+            	<span class="subheading">Delicia</span>
               <h1 class="mb-4">Tamal costarricense</h1>
               <p class="mb-4 mb-md-5">Con el sazón de nuestra tierra y el cariño de nuestras manos, ¡nuestras recetas te harán sentir como en casa, aunque estés lejos! ¡Pura vida en cada mordisco!</p>
               
