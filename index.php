@@ -65,7 +65,7 @@
           <div class="row slider-text align-items-center" data-scrollax-parent="true">
 
             <div class="col-md-6 col-sm-12 ftco-animate">
-            	<span class="subheading">Delicia</span>
+            	<span class="subheading">Delicioso</span>
               <h1 class="mb-4">Tamal costarricense</h1>
               <p class="mb-4 mb-md-5">Con el sazón de nuestra tierra y el cariño de nuestras manos, ¡nuestras recetas te harán sentir como en casa, aunque estés lejos! ¡Pura vida en cada mordisco!</p>
               

@@ -26,8 +26,8 @@
   <body>
   	<nav class="navbar navbar-expand-lg navbar-dark ftco_navbar bg-dark ftco-navbar-light" id="ftco-navbar">
 	    <div class="container">
-		      <a class="navbar-brand" href="home.php">
-          <img src="/images/CR.jpg" alt="CR" class="mr-1" >
+		      <a class="navbar-brand" href="/index.php">
+            <img src="/images/CR.jpg" alt="CR" class="mr-1" >
             Comidi
             <br>
             <small>Ticas</small>
@@ -37,9 +37,10 @@
 		      </button>
 	      <div class="collapse navbar-collapse" id="ftco-nav">
 	        <ul class="navbar-nav ml-auto">
-	          <li class="nav-item active"><a href="home.php" class="nav-link">Inicio</a></li>
-			      <li class="nav-item"><a href="login.php" class="nav-link">Iniciar sesion</a></li><li class="nav-item dropdown">
-          <a class="nav-link dropdown-toggle" href="recetas.php" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+	          <li class="nav-item active"><a href="/index.php" class="nav-link">Inicio</a></li>
+			      <li class="nav-item"><a href="login.php" class="nav-link">Iniciar sesion</a></li>
+            <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="recetas.php" role="button" data-bs-toggle="dropdown" aria-expanded="true">
             Recetas
           </a>
           <ul class="dropdown-menu">
@@ -65,12 +66,12 @@
 
             <div class="col-md-6 col-sm-12 ftco-animate">
             	<span class="subheading">Delicioso</span>
-              <h1 class="mb-4">Fresco de Horchata Costarricense</h1>
+              <h1 class="mb-4">Tamal costarricense</h1>
               <p class="mb-4 mb-md-5">Con el sazón de nuestra tierra y el cariño de nuestras manos, ¡nuestras recetas te harán sentir como en casa, aunque estés lejos! ¡Pura vida en cada mordisco!</p>
               
             </div>
             <div class="col-md-6 ftco-animate">
-            	<img src="/images/Horchata.jpg" class="img-fluid" alt="">
+            	<img src="/images/tamal.jpg" class="img-fluid" alt="">
             </div>
 
           </div>
@@ -84,7 +85,7 @@
 
             <div class="col-md-7 col-sm-12 text-center ftco-animate">
             	<span class="subheading">Bienvenido</span>
-              <h1 class="mb-4">Te enseñamos a cocinar tu tamal a tu gusto!</h1>
+              <h1 class="mb-4">Te enseñamos a cocinar tu platillo favorito!</h1>
               <p class="mb-4 mb-md-5">Con el sazón de nuestra tierra y el cariño de nuestras manos, ¡nuestras recetas te harán sentir como en casa, aunque estés lejos! ¡Pura vida en cada mordisco!</p>
     
             </div>
@@ -108,7 +109,7 @@
         amor por la tradición y compromiso con la calidad. Desde nuestros recetarios a su mesa, en ComidiTicas, celebramos la pasión por la comida 
         que une a nuestras familias y comunidades.
          ¡Déjanos ser tu elección para una experiencia gastronómica que deleitará tu paladar y llenará tu corazón de alegría!</p>
-         <h2 class="ftco-heading-2">Integrantes de nuestro equipo:</h2>
+        <h2 class="ftco-heading-2">Integrantes de nuestro equipo:</h2>
         <p> Juan Carlos Campos Garcia </p>
         <p> Katherine Virginia Benavides Gutierrez</p>
         <p> Gerald Arturo Rodriguez Hernandez</p>

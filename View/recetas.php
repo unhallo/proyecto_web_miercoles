@@ -26,7 +26,7 @@
   <body>
   	<nav class="navbar navbar-expand-lg navbar-dark ftco_navbar bg-dark ftco-navbar-light" id="ftco-navbar">
 	    <div class="container">
-		      <a class="navbar-brand" href="/index.php">
+		      <a class="navbar-brand" href="home.php">
           <img src="/images/CR.jpg" alt="CR" class="mr-1" >
             Comidi
             <br>
@@ -37,7 +37,7 @@
 		      </button>
 	      <div class="collapse navbar-collapse" id="ftco-nav">
 	        <ul class="navbar-nav ml-auto">
-	          <li class="nav-item active"><a href="/index.php" class="nav-link">Inicio</a></li>
+	          <li class="nav-item active"><a href="home.php" class="nav-link">Inicio</a></li>
 			      <li class="nav-item"><a href="login.php" class="nav-link">Iniciar sesion</a></li><li class="nav-item dropdown">
           <a class="nav-link dropdown-toggle" href="recetas.php" role="button" data-bs-toggle="dropdown" aria-expanded="false">
             Recetas
@@ -287,7 +287,6 @@
         amor por la tradición y compromiso con la calidad. Desde nuestros recetarios a su mesa, en ComidiTicas, celebramos la pasión por la comida 
         que une a nuestras familias y comunidades.
          ¡Déjanos ser tu elección para una experiencia gastronómica que deleitará tu paladar y llenará tu corazón de alegría!</p>
-        <h2 class="ftco-heading-2">Integrantes de nuestro equipo:</h2>
         <h2 class="ftco-heading-2">Integrantes de nuestro equipo:</h2>
         <p> Juan Carlos Campos Garcia </p>
         <p> Katherine Virginia Benavides Gutierrez</p>

@@ -26,7 +26,7 @@
   <body>
   	<nav class="navbar navbar-expand-lg navbar-dark ftco_navbar bg-dark ftco-navbar-light" id="ftco-navbar">
 	    <div class="container">
-		      <a class="navbar-brand" href="/index.php">
+		      <a class="navbar-brand" href="home.php">
           <img src="/images/CR.jpg" alt="CR" class="mr-1" >
             Comidi
             <br>
